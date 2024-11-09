@@ -1,4 +1,5 @@
-The dataset for this project was sourced from the Kaggle dataset titled Job Description Dataset, which formed the basis of several internship tasks. This dataset facilitated the creation of visualizations in Tableau, specifically for tasks 1, 2, and 4, leading to the development of a comprehensive final dashboard.
+The dataset for this project was sourced from the Kaggle dataset titled Job Description Dataset,
+https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset which formed the basis of several internship tasks. This dataset facilitated the creation of visualizations in Tableau, specifically for tasks 1, 2, and 4, leading to the development of a comprehensive final dashboard.
 
 Tasks 3 and 5, however, required specific modifications beyond the scope of the original Kaggle dataset. To address these unique requirements, I used Python’s NumPy and Pandas libraries to create supplemental CSV files. These files provided the necessary data structures to achieve complete outputs for these tasks. Below is the source code for tasks 3 and 5, detailing how each CSV file was created:
 ________________________________________
